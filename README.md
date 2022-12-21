@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harryakbar - https://harryakbaram.vercel.com
+- 👋 Hi, I’m @harryakbar - [https://harryakbaram.vercel.app](https://harryakbaram.vercel.app/)
 - 👀 I’m interested in golang, backend development, infrastructure thingy
 - 🌱 I’m currently learning golang, python, backend development, data analytics
 - 📫 How to reach me linkedin.com/in/harryakbaram - harryakbaram@gmail.com
